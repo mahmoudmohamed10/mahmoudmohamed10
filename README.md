@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mahmoud mohamed-06a155224/" target="_blank"><img src="https://img.shields.io/badge/-Marwan%20Ate-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/mahmoud mohamed target="_blank"><img src="https://img.shields.io/badge/-Marwan%20Atef-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011540107609" target="_blank"><img src="https://img.shields.io/badge/-Marwan%20Atef-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud mohamed-06a1552
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
